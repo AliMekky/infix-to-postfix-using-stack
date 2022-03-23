@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619366145 source:d:\codeblocks\assignment 1 data structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1619435730 source:d:\cce\4th term\data structure\assignments\infix to postfix\assignment 1 data structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
